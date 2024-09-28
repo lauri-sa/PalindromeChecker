@@ -11,7 +11,7 @@ The application provides the following functionality:
 
 ## Installation
 
-**Clone the repository:** `git clone https://github.com/yourusername/PalindromeChecker.git`
+**Clone the repository:** `git clone https://github.com/lauri-sa/PalindromeChecker.git`
 
 **Navigate to the project directory:** `cd PalindromeChecker`
 
