@@ -11,9 +11,9 @@ The application provides the following functionality:
 
 ## Installation
 
-**Clone the repository:** `git clone https://github.com/yourusername/Palindromitarkastaja.git`
+**Clone the repository:** `git clone https://github.com/yourusername/PalindromeChecker.git`
 
-**Navigate to the project directory:** `cd Palindromitarkastaja`
+**Navigate to the project directory:** `cd PalindromeChecker`
 
 **Install dependencies:** `npm install readline-sync`
 
